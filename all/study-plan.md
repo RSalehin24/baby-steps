@@ -27,3 +27,7 @@
 * machine learning (everyday: 5 hours)
 * data structures and algorithms (everyday: 4 hours)
 * hackerrank python3 problem solving (everyday: 4 hours)
+
+<br>
+
+[Back](../README.md)
