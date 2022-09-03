@@ -1,4 +1,4 @@
-Daily Routine
+## Daily Routine
 
 ### Week Days (Version 01) 
 > till September 10
@@ -7,7 +7,6 @@ Daily Routine
 |:--------------:|:------------------------:|:-----------:|
 | 07:00 AM 	     |  09:30 AM - 6:00 PM	    |    12:00 AM |
 
-<br>
 <br>
 
 ### All Days (Version 02)
