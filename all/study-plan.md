@@ -15,8 +15,8 @@
 
 ###  September 10 - September 30 (version 01)
 
-* machine learning (3 hours)
-* Frontend Masters (4 hours)
+* machine learning (4 hours)
+* Frontend Masters (7 hours)
 * data structures and algorithms (2.5 hours) 
 * hackerrank: python3 problem solving (1.5 hours)
 
@@ -24,11 +24,11 @@
 
 ###  September 10 - September 30 (version 02)
 
-* py4e (1.5 hours)
+* py4e (2 hours)
 * python3 (1 hour)
-* machine learning (3 hours)
-* frontend masters (4 hours)
-* hackerrank: python3 problem solving (1.5 hours)
+* machine learning (4 hours)
+* frontend masters (6 hours)
+* hackerrank: python3 problem solving (2 hours)
 
 <br>
 
