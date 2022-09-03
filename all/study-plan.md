@@ -6,7 +6,8 @@
 ### September 04 - September 10
 
 * py4e (3 hours)
-* Codingal training (4 hours)
+* frontend masters (3 hours)
+* machine learning (2 hours)
 * data structures and algorithms (2.5 hours)
 * hackerrank python3 problem solving (1.5 hours) 
 
@@ -16,7 +17,6 @@
 
 * machine learning (3 hours)
 * Frontend Masters (4 hours)
-* Codingal training (4 hours)
 * data structures and algorithms (2.5 hours) 
 * hackerrank: python3 problem solving (1.5 hours)
 
@@ -27,8 +27,7 @@
 * py4e (1.5 hours)
 * python3 (1 hour)
 * machine learning (3 hours)
-* Frontend Masters (4 hours)
-* Codingal training (4 hours)
+* frontend masters (4 hours)
 * hackerrank: python3 problem solving (1.5 hours)
 
 <br>

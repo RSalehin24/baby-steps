@@ -6,7 +6,6 @@
 * [PY4E: Course 05](https://www.coursera.org/learn/python-data-visualization/home/week/1)
 * [PY4E: Website](https://www.py4e.com)
 
-
 ### Python3
 * [Real Python](https://realpython.com)
 * [Learn Python](https://www.learnpython.org)
@@ -23,10 +22,6 @@
 
 ### Frontend Masters
 * [Beginner Path](https://frontendmasters.com/learn/beginner/)
-
-### Codingal Training
-* [Session Details](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIKYAvEkyLsuM_pH5pd4NPtNvUA_qhB1Sv9pOfHJuM3DVseHL9MKQ07zyeRu6V3GLHgblaUkxJ_E71/pubhtml?gid=1195577729&single=true)
-
 
 ### Hackerrank
 * [Python: Problem Solving](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
