@@ -5,3 +5,4 @@
 * [Version Track](all/study-plan-version-track.md)
 * [Daily Routine](all/daily-routine.md)
 * [Topics](all/resources/topics-to-learn.md)
+* [Path](all/path/path.md)
