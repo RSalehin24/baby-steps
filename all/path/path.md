@@ -4,10 +4,6 @@
 <br>
 
 ## September, 2022 - December, 2023
-* Python 
-* Data Structures 
-* Algorithms
-* Problem Solving
 * Master Class
   * Learning Path  
     * Beginner Path
@@ -26,6 +22,10 @@
     * Data Visualization
     * Webpack
     * Async Js & Rx.js
+* Machine Learning
+* Data Structures 
+* Algorithms
+* Problem Solving
 * Educative
 
 <br>
