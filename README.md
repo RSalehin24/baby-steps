@@ -2,4 +2,4 @@
 
 * See **steps** file that includes current topics which are going on  
   
-* See **baby-steps** file that includes topics from **steps** with duration for a period depending on overall condition and hour mapping for each topic for each week
+* See **baby-steps** file that includes topics from **steps** for a period depending on overall condition and hour mapping for each topic for a week
