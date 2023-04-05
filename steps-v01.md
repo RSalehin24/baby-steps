@@ -35,3 +35,5 @@
 **Math**
  * [Mathematics for Computer Science - book]()
 
+**Data Science**
+ * [365datascience](https://learn.365datascience.com)
