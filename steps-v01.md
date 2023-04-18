@@ -11,6 +11,7 @@
  * [Data Anaytics - Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
  * [Finance Track](https://www.coursera.org/specializations/financial-analysis-skills-for-success)
  * [Public Sector Track](https://www.coursera.org/specializations/data-analytics-in-the-public-sector-with-r#courses)
+ *  [Advanced Data Anaytics - Coursera](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 
 <br>
 
