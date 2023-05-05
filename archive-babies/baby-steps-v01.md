@@ -28,5 +28,3 @@
   | Python          |   6d - 4h  |     24h     |
   | 365 data science|   6d - 4h  |     24h     |
   
-
-  
