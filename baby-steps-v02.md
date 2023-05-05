@@ -17,6 +17,6 @@
   | Fullstack       |   7d - 2.0h  |     14h    |
   | Python          |   7d - 1.5h  |     10.5h     |
   | Data Analysis   |   7d - 1.5h  |     10.5h     |
-  | 365 data science|   3d - 1.0h  |     3h     |
-  | Total           |   7d - 5h    |     38h    |
+  | 365 data science|   6d - 1.0h  |     6h     |
+  | Total           |   7d - 5h    |     41h    |
   
