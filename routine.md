@@ -6,4 +6,4 @@
 | Mon - Thurs | 1.5 | 09:45 - 11:15 | 6 |
 | Sat - Sun | 6 | 11:00 - 01:00 <br> 04:00 - 08:00| 12 |
 
-Total hours: 18 hours
+Total hours (every week): 18 
