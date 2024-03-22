@@ -1,16 +1,16 @@
-name: Merge Markdown Files
-on:
-  push:
-    branches:
-      - main
-jobs:
-  merge_markdown:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+# name: Merge Markdown Files
+# on:
+#   push:
+#     branches:
+#       - main
+# jobs:
+#   merge_markdown:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v2
 
-      - name: Merge Markdown files
-        run: |
-          cat others/main/routine.md >> README.md
-        shell: bash
+#       - name: Merge Markdown files
+#         run: |
+#           cat others/main/routine.md >> README.md
+#         shell: bash
