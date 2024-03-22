@@ -1,6 +1,6 @@
 # Course flow
 
-<img src="pics/course_flow.png" alt="image" width="400" height="500">
+<img src="../pics/course_flow.png" alt="image" width="400" height="500">
 
 ## Approximate total time
 
@@ -17,4 +17,4 @@
 Required Time: 1.5 years
 
 ## Timeline [Jan, 2024 - Jun, 2024]
-![Timeline](pics/course_flow_time-line_jan_2024_jun_2024.png)
+![Timeline](../pics/course_flow_time-line_jan_2024_jun_2024.png)

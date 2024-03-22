@@ -1,9 +1,9 @@
 # Routine 
-> Weekly  
-> Jan to Mar, 2024
+> Mar, 2024  
+> [Frontend: Meta](https://www.coursera.org/programs/santa-clara-city-library-sngre/professional-certificates/meta-front-end-developer)
 
 | Day | Hours | Time| Total |
 |-----|-------|-----|-------|
-| Mon - Thurs | 1.5 | 09:45 - 11:15 | 6 |
+| Mon - Thurs | 3 | 08:00 - 11:30 | 12 |
 | Sat - Sun | 6 | 11:00 - 01:00 <br> 04:00 - 08:00| 12 |
-| Total hours | - | - | 18 |
+| Total hours | - | - | 24 |
