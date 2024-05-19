@@ -1,0 +1,20 @@
+.navbar-site-name-margin {
+  margin-left: 2%;
+  font-weight: 800;
+}
+
+.nav-active-page {
+  background-color: #CDCDCD;
+  border-radius: 5px;
+}
+
+.goal-intro-text {
+  margin-top: 25px;
+}
+
+.goals-image-grant {
+  width: 760px;
+  height: 153px;
+}
+
+/*# sourceMappingURL=styles.css.map */
