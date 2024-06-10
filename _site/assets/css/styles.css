@@ -13,18 +13,18 @@
 }
 
 .goals-image-grant {
-  width: 760px;
-  height: 153px;
+  max-width: 760px;
+  max-height: 153px;
 }
 
 .goal-one {
-  width: 1026px;
-  height: 206px;
+  max-width: 1129px;
+  max-height: 227px;
 }
 
 .g1s1 {
-  width: 1064px;
-  height: 391px;
+  max-width: 1054px;
+  max-height: 337px;
 }
 
 table {

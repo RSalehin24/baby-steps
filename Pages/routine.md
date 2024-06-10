@@ -15,8 +15,8 @@ permalink: /routine
         <thead>
             <tr>
                 <th>Day</th>
-                <th>6:00 - 8:00</th>
-                <th>8:30 - 10:30</th>
+                <th>7:30 - 9:00</th>
+                <th>9:30 - 11:00</th>
             </tr>
         </thead>
         <tbody>
@@ -27,13 +27,13 @@ permalink: /routine
             </tr>
             <tr>
                 <td>Tue</td>
-                <td><a class="text-decoration-none" href="https://www.kaggle.com/learn">ML</a></td>
                 <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
+                <td><a class="text-decoration-none" href="https://www.kaggle.com/learn">ML</a></td>
             </tr>
             <tr>
                 <td>Wed</td>
+                <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
                 <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
-                <td><a class="text-decoration-none" href="https://www.coursera.org/learn/codio-unix-system-basics/home">Bash</a></td>
             </tr>
             <tr>
                 <td>Thu</td>
@@ -42,7 +42,7 @@ permalink: /routine
             </tr>
             <tr>
                 <td>Fri</td>
-                <td><a class="text-decoration-none" href="https://www.coursera.org/learn/codio-unix-system-basics/home">Bash</a></td>
+                <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
                 <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
             </tr>
         </tbody>
@@ -62,7 +62,7 @@ permalink: /routine
         <tbody>
             <tr>
                 <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
-                <td><a class="text-decoration-none" href="https://www.coursera.org/learn/codio-unix-system-basics/home">Bash</a></td>
+                <td><a class="text-decoration-none" href="https://www.kaggle.com/learn">ML</a></td>
                 <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
             </tr>
         </tbody>
@@ -82,8 +82,8 @@ permalink: /routine
         <tbody>
             <tr>
                 <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
-                <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
                 <td><a class="text-decoration-none" href="https://www.kaggle.com/learn">ML</a></td>
+                <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
             </tr>
         </tbody>
     </table>
