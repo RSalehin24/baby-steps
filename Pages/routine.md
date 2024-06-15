@@ -23,7 +23,7 @@ permalink: /routine
             <tr>
                 <td>Mon</td>
                 <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
-                <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
+                <td><a class="text-decoration-none" href="https://www.theodinproject.com/paths/foundations/courses/foundations">Odin (Foundations)</a></td>
             </tr>
             <tr>
                 <td>Tue</td>
@@ -33,7 +33,7 @@ permalink: /routine
             <tr>
                 <td>Wed</td>
                 <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
-                <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
+                <td><a class="text-decoration-none" href="https://www.theodinproject.com/paths/foundations/courses/foundations">Odin (Foundations)</a></td>
             </tr>
             <tr>
                 <td>Thu</td>
@@ -43,7 +43,7 @@ permalink: /routine
             <tr>
                 <td>Fri</td>
                 <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
-                <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
+                <td><a class="text-decoration-none" href="https://www.theodinproject.com/paths/foundations/courses/foundations">Odin (Foundations)</a></td>
             </tr>
         </tbody>
     </table>
@@ -55,7 +55,7 @@ permalink: /routine
         <thead>
             <tr>
                 <th>7:30 - 8:30</th>
-                <th>8:30 - 12:30</th>
+                <th>9:00 - 12:45</th>
                 <th>6:30 - 9:30</th>
             </tr>
         </thead>
@@ -63,7 +63,7 @@ permalink: /routine
             <tr>
                 <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
                 <td><a class="text-decoration-none" href="https://www.kaggle.com/learn">ML</a></td>
-                <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
+                <td><a class="text-decoration-none" href="https://www.theodinproject.com/paths/foundations/courses/foundations">Odin (Foundations)</a></td>
             </tr>
         </tbody>
     </table>
@@ -75,7 +75,7 @@ permalink: /routine
         <thead>
             <tr>
                 <th>7:30 - 8:30</th>
-                <th>8:30 - 12:30</th>
+                <th>9:00 - 12:45</th>
                 <th>6:30 - 9:30</th>
             </tr>
         </thead>
@@ -83,7 +83,7 @@ permalink: /routine
             <tr>
                 <td><a class="text-decoration-none" href="https://devopswithdocker.com/">Docker</a></td>
                 <td><a class="text-decoration-none" href="https://www.kaggle.com/learn">ML</a></td>
-                <td><a class="text-decoration-none" href="https://www.freecodecamp.org/learn/front-end-development-libraries/">FrontEnd</a></td>
+                <td><a class="text-decoration-none" href="https://www.theodinproject.com/paths/foundations/courses/foundations">Odin (Foundations)</a></td>
             </tr>
         </tbody>
     </table>
