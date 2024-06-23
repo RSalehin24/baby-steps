@@ -4,8 +4,10 @@ title: Home
 permalink: "/"
 ---
 
-# Home
+<div class="py-2">
+  <image src="/baby-steps/assets/images/production.jpg" />
+</div>
 
-<script>
+<!-- <script>
     window.location.href = "/baby-steps/routine";
-</script>
+</script> -->

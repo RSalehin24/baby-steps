@@ -2,11 +2,13 @@
 #   link: /baby-steps/
 # - name: About
 #   link: /baby-steps/about
-- name: Goal
-  link: /baby-steps/goal
-- name: Goal 01
-  link: /baby-steps/goal-one
-- name: G1S1
-  link: /baby-steps/g1s1
 - name: Routine
   link: /baby-steps/routine
+- name: Three
+  link: /baby-steps/g1-three
+- name: One-half
+  link: /baby-steps/g1-one-half
+- name: Goal 01
+  link: /baby-steps/goal-one
+- name: Goal
+  link: /baby-steps/goal

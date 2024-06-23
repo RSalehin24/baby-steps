@@ -1,2 +1,0 @@
-* [JavaScript: FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
-* [TypeScript: Microsoft](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/)
